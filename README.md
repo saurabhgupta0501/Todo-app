@@ -1,4 +1,5 @@
 ﻿# Modern Todo List Application
+![Screenshot (1)](https://github.com/user-attachments/assets/08acbfcc-a1cd-4ece-b21d-581c95512c7b)
 
 A beautiful, responsive Todo List application built with React and Bootstrap, featuring modern UI design with gradients and smooth animations.
 
