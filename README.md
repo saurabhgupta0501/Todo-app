@@ -192,4 +192,4 @@ If you encounter any issues or have questions:
 
 ---
 
-Made with ❤️ by [saurabh kumar]
+Made with ❤️ by saurabh kumar
